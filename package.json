@@ -1,0 +1,14 @@
+{
+  "name": "js-module-gen",
+  "version": "1.0.0",
+  "description": "generates a javascript module",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "generator",
+    "javascript",
+    "file"
+  ],
+  "author": "Emil Johansson <emiljohansson.se@gmail.com>",
+  "license": "MIT"
+}
